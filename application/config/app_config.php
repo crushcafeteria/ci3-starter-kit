@@ -1,6 +1,6 @@
 <?php 
 
-$config['app_name'] = 'Timetabling App';
+$config['app_name'] = 'App Name';
 
 
 
